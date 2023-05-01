@@ -1,0 +1,25 @@
+{
+  "name": "@two-hand-studio/twohands-react-comps",
+  "version": "1.0.0",
+  "description": "Ready to use ReactJS components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwoHandStudio/twohands-react-comps.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react",
+    "TwoHandStudio",
+    "tehaque"
+  ],
+  "author": "tehaque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TwoHandStudio/twohands-react-comps/issues"
+  },
+  "homepage": "https://github.com/TwoHandStudio/twohands-react-comps#readme"
+}
