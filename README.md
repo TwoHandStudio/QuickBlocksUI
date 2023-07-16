@@ -3,15 +3,16 @@
 ## Description 
 This package contains a set of custom React components that can be used to build modern and responsive user interfaces. The package includes a range of UI elements, such as buttons, forms, alerts, modals, and more, that are easy to integrate into any React project. Each component is designed to be highly customizable and reusable, with extensive documentation and examples to help developers get started quickly. With this package, you can save time and effort in building UI components from scratch, and focus on creating the core features of your application.
 
-[![npm version](https://img.shields.io/npm/v/@two-hand-studio/quickblockui.svg)](https://www.npmjs.com/package/@two-hand-studio/quickblockui)
-[![npm downloads](https://img.shields.io/npm/dt/@two-hand-studio/quickblockui.svg)](https://www.npmjs.com/package/@two-hand-studio/quickblockui)
+[![npm version](https://img.shields.io/npm/v/@twohandstudio/quickblocksui.svg)](https://www.npmjs.com/package/@twohandstudio/quickblocksui)
+[![npm downloads](https://img.shields.io/npm/dt/@twohandstudio/quickblocksui.svg)](https://www.npmjs.com/package/@twohandstudio/quickblocksui)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub contributors](https://img.shields.io/github/contributors/TwoHandStudio/QuickBlocksUI.svg)](https://github.com/TwoHandStudio/QuickBlocksUI/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/TwoHandStudio/QuickBlocksUI.svg?style=social&label=Star&maxAge=2592000)](https://github.com/TwoHandStudio/QuickBlocksUI/stargazers)
-[![npm bundle size](https://img.shields.io/bundlephobia/min/@two-hand-studio/quickblockui.svg)](https://www.npmjs.com/package/@two-hand-studio/quickblockui)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/@twohandstudio/quickblocksui.svg)](https://www.npmjs.com/package/@twohandstudio/quickblocksui)
 [![Last commit](https://img.shields.io/github/last-commit/TwoHandStudio/QuickBlocksUI.svg)](https://github.com/TwoHandStudio/QuickBlocksUI/commits/master)
 [![Issues](https://img.shields.io/github/issues-raw/TwoHandStudio/QuickBlocksUI.svg)](https://github.com/TwoHandStudio/QuickBlocksUI/issues)
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/TwoHandStudio/QuickBlocksUI.svg)](https://github.com/TwoHandStudio/QuickBlocksUI/issues?q=is%3Aissue+is%3Aclosed)
+
 
 
 ## Installation
