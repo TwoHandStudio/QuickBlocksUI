@@ -1,10 +1,11 @@
 {
-   "name": "@two-hand-studio/quickblockui",
+   "name": "@twohandstudio/quickblocksui",
    "version": "1.0.0",
    "description": "Ready to use ReactJS components",
    "main": "index.js",
-   "author": "tehaque",
-   "repository": "https://https://github.com/TwoHandStudio/QuickBlocksUI",
+   "author": "TwoHandStudio",
+   "homepage": "https://quickblocks.gatsbyjs.io/",
+   "repository": "https://github.com/TwoHandStudio/QuickBlocksUI",
    "keywords": [
       "reactjs",
       "parallax",
