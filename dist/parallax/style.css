@@ -1,0 +1,13 @@
+.comp-wrapper{
+   height: 250vh;
+   width: 100%;
+}
+.bg-layer{
+   background-position: top center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 130%;
+   position: fixed;
+   z-index: -1;
+}
