@@ -39,7 +39,7 @@ This component will work for uniform images divided into several planes. Specifi
 - import like any Component:
 
 ```javascript
-import { Parallax } from "@two-hand-studio/quickblockui";
+import { Parallax } from "@twohandstudio/quickblocksui";
 ```
 
 - import images (or just pass it straight to table)
@@ -88,7 +88,7 @@ You can also add fields such as title or description to the [sliderList](https:/
 - import like any Component:
 
 ```javascript
-import { Slider } from "@two-hand-studio/quickblockui";
+import { Slider } from "@twohandstudio/quickblocksui";
 ```
 
 - create one variable or state (for example):
