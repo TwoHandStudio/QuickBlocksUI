@@ -18,7 +18,7 @@ This package contains a set of custom React components that can be used to build
 ## Installation
 
 ```sh
-npm i @two-hand-studio/quickblockui
+npm i @twohandstudio/quickblocksui
 ```
 
 
