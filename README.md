@@ -1,8 +1,5 @@
 # QuickBlocksUI by TwoHandStudio
 
-## Description 
-This package contains a set of custom React components that can be used to build modern and responsive user interfaces. The package includes a range of UI elements, such as buttons, forms, alerts, modals, and more, that are easy to integrate into any React project. Each component is designed to be highly customizable and reusable, with extensive documentation and examples to help developers get started quickly. With this package, you can save time and effort in building UI components from scratch, and focus on creating the core features of your application.
-
 [![npm version](https://img.shields.io/npm/v/@twohandstudio/quickblocksui.svg)](https://www.npmjs.com/package/@twohandstudio/quickblocksui)
 [![npm downloads](https://img.shields.io/npm/dt/@twohandstudio/quickblocksui.svg)](https://www.npmjs.com/package/@twohandstudio/quickblocksui)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +10,8 @@ This package contains a set of custom React components that can be used to build
 [![Issues](https://img.shields.io/github/issues-raw/TwoHandStudio/QuickBlocksUI.svg)](https://github.com/TwoHandStudio/QuickBlocksUI/issues)
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/TwoHandStudio/QuickBlocksUI.svg)](https://github.com/TwoHandStudio/QuickBlocksUI/issues?q=is%3Aissue+is%3Aclosed)
 
-
+## Description 
+This package contains a set of custom React components that can be used to build modern and responsive user interfaces. The package includes a range of UI elements, such as buttons, forms, alerts, modals, and more, that are easy to integrate into any React project. Each component is designed to be highly customizable and reusable, with extensive documentation and examples to help developers get started quickly. With this package, you can save time and effort in building UI components from scratch, and focus on creating the core features of your application.
 
 ## Installation
 
