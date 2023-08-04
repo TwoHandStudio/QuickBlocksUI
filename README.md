@@ -10,7 +10,8 @@
 [![Issues](https://img.shields.io/github/issues-raw/TwoHandStudio/QuickBlocksUI.svg)](https://github.com/TwoHandStudio/QuickBlocksUI/issues)
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/TwoHandStudio/QuickBlocksUI.svg)](https://github.com/TwoHandStudio/QuickBlocksUI/issues?q=is%3Aissue+is%3Aclosed)
 
-## Description 
+## Description
+
 This package contains a set of custom React components that can be used to build modern and responsive user interfaces. The package includes a range of UI elements, such as buttons, forms, alerts, modals, and more, that are easy to integrate into any React project. Each component is designed to be highly customizable and reusable, with extensive documentation and examples to help developers get started quickly. With this package, you can save time and effort in building UI components from scratch, and focus on creating the core features of your application.
 
 ## Installation
@@ -18,7 +19,6 @@ This package contains a set of custom React components that can be used to build
 ```sh
 npm i @twohandstudio/quickblocksui
 ```
-
 
 ## Contents
 
@@ -122,8 +122,11 @@ const sliderList = [
 - If you change [slide display time](https://github.com/TEHAQUE/ReactJS-Components/blob/c7c571d8856b02401260069b4a693458ec47930e/slider%20with%20timer/slider.jsx#L37), don't forget to change the **_aniamtion-duration_** value in the [animate](https://github.com/TEHAQUE/ReactJS-Components/blob/c7c571d8856b02401260069b4a693458ec47930e/slider%20with%20timer/styl.css#L40) class to the time you want the slide to last.
 
 # Slider
+
 ### Description
+
 Offers the same functionality as the [Default Slider](#default-slider) but with added compatibility and the ability to easily customize its styles. With smooth sliding and seamless value selection, this slider enhances the user experience while seamlessly integrating into any project.
 
-## All possible methods of customization and styling changes 
+## All possible methods of customization and styling changes
+
 https://quickblocks.gatsbyjs.io/Examples/Slider/

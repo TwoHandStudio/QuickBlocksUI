@@ -141,7 +141,7 @@ background-color: #ffffff;
       cursor: pointer;
    }
    .slider-indic-el{
-      width: 15px;
+      width: 30px;
       transform: translateX(-60px);
       height: 10px;
       background-color: #ffffff;
@@ -161,7 +161,7 @@ background-color: #ffffff;
    }
    @keyframes inputAnim{
       0%{
-         transform: translateX(-15px);
+         transform: translateX(-30px);
       }
       100%{
          transform: translateX(0px);
